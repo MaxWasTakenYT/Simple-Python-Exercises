@@ -1,7 +1,6 @@
 import os
 import time
 
-
 def clear_screen():
   os.system('clear')
 

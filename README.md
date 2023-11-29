@@ -5,5 +5,5 @@
 
 |Version Number|-|State|
 |-|-|-|
-|0.1✅|-|[Released✅]()|
+|0.1✅|-|[Released✅](https://github.com/MaxWasTakenYT/Simple-Python-Exercises/releases/tag/Stable)|
 |0.2🟨|-|W.I.P.🟨|

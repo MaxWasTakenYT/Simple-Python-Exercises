@@ -4,7 +4,6 @@ import time
 def clear_screen():
     os.system('cls')
 
-
 def text_inverter_exercise():
   print("Text Inverter - Very Easy")
   time.sleep(0.5)
